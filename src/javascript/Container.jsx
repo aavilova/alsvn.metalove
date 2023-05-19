@@ -76,6 +76,7 @@ export default class Container extends Component {
     		A2: "metalove.mp3",
     	},
     	baseUrl: "/matalove/samples/",
+      // baseUrl: "/samples/",
     	// onload: () => {
     	// 	sampler.triggerAttackRelease(["C1", "E1", "G1", "B1"], 10);
     	// }
